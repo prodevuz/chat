@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020786855494",
+    "project_id": "rtchat-58874",
+    "storage_bucket": "rtchat-58874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020786855494:android:6a661d13477ea28e944447",
+        "android_client_info": {
+          "package_name": "com.andcode.rtchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rRonNQ88M1_GbqsVZkfQXr8dRj2DrAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
